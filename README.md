@@ -76,7 +76,6 @@ The study uses official crime statistics from Indian states, including:
 ```text id="cr_struct"
 README.md
 report.pdf
-presentation.pdf
 
 datasets/
 code/
